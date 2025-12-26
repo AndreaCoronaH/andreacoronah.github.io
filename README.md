@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página Simple</title>
+    <title>Mi primera pagina web</title>
     <style>
         * {
             margin: 0;
@@ -71,26 +71,19 @@
 </head>
 <body>
     <header>
-        <h1>Mi Página Web Simple</h1>
-        <p>Un ejemplo básico de HTML con estilo CSS integrado</p>
+        <h1>Mi Primera Pagina Webb</h1>
+        <p>holis</p>
     </header>
     
     <main>
         <h2>Bienvenido a mi página</h2>
         <p>Este es un ejemplo de código HTML completo pero sencillo, que incluye:</p>
         
-        <ul>
-            <li>Estructura HTML básica</li>
-            <li>Estilos CSS integrados</li>
-            <li>Elementos semánticos (header, main, footer)</li>
-            <li>Diseño responsive básico</li>
-        </ul>
-        
         <div class="destacado">
-            <p>Puedes copiar este código en un archivo con extensión <strong>.html</strong> y abrirlo directamente en cualquier navegador web.</p>
+            <p>¿qué haces niñata?</p>
         </div>
         
-        <p>HTML (HyperText Markup Language) es el lenguaje estándar para crear páginas web. Este código incluye todo lo necesario para una página funcional.</p>
+        <p>:)</p>
     </main>
     
     <footer>
